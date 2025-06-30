@@ -9,6 +9,7 @@ public class StringComparistion {
         System.out.print(" compareTo(): " + one.compareTo(two)  );
         System.out.println();
         System.out.println(one.concat(two));
+        System.out.println(one.concat(two));
 
     }
 }
